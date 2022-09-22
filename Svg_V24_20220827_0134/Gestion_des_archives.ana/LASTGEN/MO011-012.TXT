@@ -1,0 +1,9 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+acquisition_supprimee		TAR	133	nouvelle taille enregistrement : 133
+acquisition_supprimee	date_suppression_ac	RUB+		date_suppression_ac est une nouvelle rubrique
+acquisition_supprimee	heure_suppression_acqui	RUB+		heure_suppression_acqui est une nouvelle rubrique
+acquisition_supprimee	User_Connecte	RUB+		User_Connecte est une nouvelle rubrique
+classement_supprime		TAR	133	nouvelle taille enregistrement : 133
+classement_supprime	date_de_suppression	RUB+		date_de_suppression est une nouvelle rubrique
+classement_supprime	heure_suppression	RUB+		heure_suppression est une nouvelle rubrique
+classement_supprime	User_Connecte	RUB+		User_Connecte est une nouvelle rubrique

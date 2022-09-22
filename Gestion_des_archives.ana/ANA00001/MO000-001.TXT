@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Utilisateurs		NFI		nouveau fichier
+acquisitions		NFI		nouveau fichier
+classements		NFI		nouveau fichier
+acquisition_enlevee		NFI		nouveau fichier
+acquisitions		NWL	acquisitions (numero_acqui) et classements (Numero_acqui)	Nouvelle liaison entre les fichiers acquisitions (numero_acqui) et classements (Numero_acqui)

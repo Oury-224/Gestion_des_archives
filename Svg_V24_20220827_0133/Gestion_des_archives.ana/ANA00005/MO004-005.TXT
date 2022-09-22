@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+acquisition_enlevee		TAR	187	nouvelle taille enregistrement : 187
+acquisition_enlevee	nombre_dossier	RUB+		nombre_dossier est une nouvelle rubrique
+acquisition_enlevee	nbre_piece	NNR	nbre_doc	ATTENTION : la rubrique nbre_doc a pour nouveau nom nbre_piece
+acquisition_enlevee	date_acquisition	RUB+		date_acquisition est une nouvelle rubrique

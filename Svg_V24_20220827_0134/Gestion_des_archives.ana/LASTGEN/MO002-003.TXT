@@ -1,0 +1,2 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+acquisitions	nbre_piece	NNR	nbre_doc	ATTENTION : la rubrique nbre_doc a pour nouveau nom nbre_piece

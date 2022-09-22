@@ -1,0 +1,9 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=2	;Analysis GUID
+LOCALIZATION_UTF8=6E89D35C92EF4DC3AC79A195983D05B5	acquisitions	C:\Mes Projets\Gestion des archives\Exe\acquisitions.fic
+LOCALIZATION_UTF8=795AFFA3B4944128B9A449A887436689	acquisition_enlevee	C:\Mes Projets\Gestion des archives\Exe\acquisition_enlevee.fic
+LOCALIZATION_UTF8=B9718F5DB0DD46C89B53CBB3CDFC5195	classements	C:\Mes Projets\Gestion des archives\Exe\classements.fic
+LOCALIZATION_UTF8=5214DADC7F0E4C1EAEBE991DB59CCA9D	Utilisateurs	C:\Mes Projets\Gestion des archives\Exe\Utilisateurs.fic
+LOCALIZATION_UTF8=097487DB944F4DE98B406C5714143542	acquisition_supprimee	C:\Mes Projets\Gestion des archives\Exe\acquisition_supprimee.fic
+LOCALIZATION_UTF8=6473BC75A84F49F18FAF8AD6685B7169	classement_supprime	C:\Mes Projets\Gestion des archives\Exe\classement_supprime.fic
